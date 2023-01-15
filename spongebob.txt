@@ -77,7 +77,7 @@
 77 Jellyfish-Hunter
 78 The-Fry-Cook-Games
 79 Squid-on-Strike
-80 Sandy,-SpongeBob-and-the-Worm
+80 Sandy-SpongeBob-and-the-Worm
 81 The-Algaes-Always-Greener
 82 SpongeGuard-on-Duty
 83 Club-SpongeBob
@@ -271,7 +271,7 @@
 271 The-Curse-of-the-Hex
 272 The-Main-Drain
 273 Trenchbillies
-274 Sponge-Cano!
+274 Sponge-Cano
 275 The-Great-Patty-Caper
 276 That-Sinking-Feeling
 277 Karate-Star
@@ -330,7 +330,7 @@
 330 Glove-World-RIP
 331 Squiditis
 332 Demolition-Doofus
-333 Treats!
+333 Treats
 334 For-Here-or-to-Go
 335 Its-a-SpongeBob-Christmas
 336 Super-Evil-Aquatic-Villain-Team-Up-is-Go
